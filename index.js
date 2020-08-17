@@ -8,3 +8,5 @@ console.log('f2');
 console.log('donef2');
 
 console.log('f_done');
+
+console.log('doneAll');
